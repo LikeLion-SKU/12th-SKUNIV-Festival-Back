@@ -1,27 +1,77 @@
-Tag Name: Description
-----------------------
-🚀Feat: 새로운 기능을 추가
+## 🌲2024 서경대학교 대동제 FOR:REST🌲
 
-🛠️Fix: 버그 수정
 
-🎨Design: CSS 등 사용자 UI 디자인 변경
+<div align="center">
+<img alt="image" width="1024"  src="https://github.com/LikeLion-SKU/12th-SKUNIV-Festival-Front/assets/126397025/ccbf0cfb-1063-45d0-bf07-395ce0d5ab85">
+</div>
+    
 
-🚨BREAKING CHANGE: 커다란 API 변경의 경우
+🔗 [사이트 바로가기(서버X)](https://2024skufestival.site/) <br/>
+<br/>
 
-🚨HOTFIX: 급하게 치명적인 버그를 고쳐야하는 경우
+## 〽️ 기능
 
-✨Style: 코드 포맷 변경, 세미 콜론 누락, 코드 수정이 없는 경우
+1. 부스위치, 부스별 판매 품목 및 가격 확인 기능
+2. 총학생회 공지사항
+3. 분실물 발생 시 업로드 기능
+4. 공연 타임테이블
+5. AED 및 대피로 안내
+   
+<br>
+<hr>
+<br>
 
-⚙️Refactor: 프로덕션 코드 리팩토링
+# 팀원소개 🙋🏻‍♀️
+## Developers✨
 
-🗃️Comment: 필요한 주석 추가 및 변경
+| 이름                                         | 전공           | Email                |
+| -------------------------------------------- | --------------  | -------------------- |
+| [서현은](https://github.com/hyuneu-n)       | 컴퓨터공학과 22  | mynameishyuneunseo@gmail.com |
+| [김소연](https://github.com/kssosoy)  | 소프트웨어학과 20      | qws1566@skuniv.ac.kr |
+| [고승범](https://github.com/seongbe) | 소프트웨어학과 18      | ssdk128@naver.com |
+| [유창호](https://github.com/ChangHoYu) | 컴퓨터공학과 20      | hoyoo@naver.com |
+| [김효중](https://github.com/hn7093) | 컴퓨터공학과 19      | hyojoung0811@gmail.com |
 
-📜Docs: 문서 수정
+## PM/DESIGN✨
+| 이름                                         | 전공           | Email                |
+| -------------------------------------------- | --------------  | -------------------- |
+| 민동명| 컴퓨터공학과 22  | zmarzmzm@naver.com |
+| 김정현| 아트앤테크놀리지학과 23      | jczhy11@skuniv.ac.kr |
+| 유서진| 디자인학부 22      | tree5258@skuniv.ac.kr |
 
-💻Test: 테스트 코드, 리펙토링 테스트 코드 추가, Production Code(실제로 사용하는 코드) 변경 없음
+<br>
+<hr>
+<br>
 
-💻Chore: 빌드 업무 수정, 패키지 매니저 수정, 패키지 관리자 구성 등 업데이트, Production Code 변경 없음
+# TECH 🛠️
+<div align=left>
+    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+    <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+</div>
 
-🔄️Rename: 파일 혹은 폴더명을 수정하거나 옮기는 작업만인 경우
+<br>
+<br>
 
-🪚Remove: 파일을 삭제하는 작업만 수행한 경우
+# UI 🎨
+<table>
+  <tr>
+    <td>
+      HOME<br>
+      <img src="https://github.com/LikeLion-SKU/12th-SKUNIV-Festival-Front/assets/126397025/66a24775-45d3-48fe-850d-5d5faea213cb" width="270">
+    </td>
+    <td>
+      BOOTH<br>
+      <img src="https://github.com/LikeLion-SKU/12th-SKUNIV-Festival-Front/assets/126397025/67415e6a-e4f4-4a7a-8d02-632f31ec35a3" width="270">
+    </td>
+    <td>
+      AED&EVACUATION<br>
+      <img src="https://github.com/LikeLion-SKU/12th-SKUNIV-Festival-Front/assets/126397025/c1b6f1fa-f722-44c2-ade4-f62871b0569f" width="270">
+    </td>
+  </tr>
+</table>
+
+<div align="left">
+<img alt="image" width="890" src="https://github.com/LikeLion-SKU/12th-SKUNIV-Festival-Front/assets/126397025/175604b3-10ee-4242-92eb-84fd99c3f4b1">
+</div>
