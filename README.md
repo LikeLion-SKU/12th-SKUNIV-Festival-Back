@@ -6,7 +6,7 @@
 </div>
     
 
-🔗 [사이트 바로가기(서버X)](https://2024skufestival.site/) <br/>
+🔗 [사이트 바로가기(서버X)](https://main--2024skufestival.netlify.app/) <br/>
 <br/>
 
 ## 〽️ 기능
